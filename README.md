@@ -2,5 +2,5 @@
 
 ## Jerry Mock
 
-Email: [jerrymock@u.boisestate.edu](jerrymock@u.boisestate.edu)
+Email: [jerrymock@u.boisestate.edu](mailto:jerrymock@u.boisestate.edu)
 
